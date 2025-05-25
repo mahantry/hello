@@ -1,34 +1,11 @@
-{
-  "dialog": {
-    "title": "ورود لایسنس",
-    "message": "لطفاً لایسنس خود را وارد کنید:",
-    "input": {
-      "type": "password",
-      "placeholder": "کلید لایسنس",
-      "name": "licenseKey"
-    },
-    "buttons": [
-      {
-        "text": "تأیید",
-        "action": "checkLocalLicense"
-      },
-      {
-        "text": "لغو",
-        "action": "cancel"
-      }
-    ]
-  },
-  "localValidation": {
-    "validKeys": [
-      "ABC123-XYZ789",
-      "FREE-TRIAL-2025",
-      "VIP-ACCESS-456"
-    ],
-    "onSuccess": {
-      "message": "لایسنس معتبر است. خوش آمدید!"
-    },
-    "onFailure": {
-      "message": "لایسنس نامعتبر است. دوباره تلاش کنید."
-    }
-  }
-}
+Dvhw8RnSNhfBE7lU+2MmygF432yTReCkpHcSq/q8+FpXu/Rn7KvoZtHyZ6taFggn+AN6hM1iTcB2
+AA5EHq/f9UneKhcDUh2AikHxSqHPZljm92QCoiB0+NZyZPn/RdPcQBIe3brzR4Bw+sao1OAaFM0W
+KICWNIzvGu24pYe4PsvWi6oxg9mo2qEgWhRdvOUOHSG3dxMRSqv3T6kgSiAvQUsWJIWl1j9N6mye
+TD9AL2HZoG2MKnJf3/PhcirmTrnoe4r3mvHYhsEaUuOmB248GHNz+LlV48NdwwSkP5GNVzmrh11e
+3PsDaF6kcOEvpzMcC1bKwV98Rq4IcY8P6gCWhBImWfOArWrJVd2CmngzxctC27653/eaG3ZpJwJ/
+XvJaQNLnOxWPkCR6C4ZoMPlCR2oJtHQsiK4GYLVfBT6a4goDgaynCCtlal7CILnHgW/S6Rk8eRpW
+jfLOC4NY+My8Im/ld50doeb29zq9CsG6tk6jgU6vjbixlMOwfZBR2d/oy3V40N0pigU9lxJvRp26
+6KIcZ2eFEF0XLOsuG4BI6LjR2c8a0LB/8dTia6U690FcXkVmEHGqxhsS5c7taGYF3d9oZO7b9etn
+x0lYrZiIhvK9WNhap80cteC9+Z/z+9g6oQDfr1rTY6xF4mkf0/AKWs60cxtkUZ8WH0aAUD3qOrrL
+7layM56sBHiVM7R9OIXdXM+QAFkLjnYAqmUG5O9HzmZsJd5Y8TDy3ix9kPTD0tIxQlRRLMfHmzsv
+wypDQd6UVibBWa9+/G2W4hn/PHSSJEfYHVTyfgh8ULQwe60plVI=
